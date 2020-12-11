@@ -23,13 +23,13 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/2" alt="Recent Article 2"> <br>
 <h3>My stats</h3>
 <!--START_SECTION:waka-->
-```
+<pre>
 JSON         34 mins         ███████████▓░░░░░░░░░░░░░   46.26 % 
 Other        13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 % 
 JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 Python       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-```
+</pre>
 <!--END_SECTION:waka--><br>
 <h3>Where to find me</h3>
 <p>
