@@ -1,6 +1,5 @@
 <h1>👋🏻 Welcome to my profile.</h1>
 
-
 <p></br> I'm Daniel, from <img src="https://www.flaticon.es/svg/static/icons/svg/323/323365.svg" width="13"/> <b>Spain.</b></p><br>
 <h3>Programming languages I know</h3>
 <p>
@@ -22,12 +21,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/1" alt="Recent Article 1"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/2" alt="Recent Article 2"> <br>
-<h3>Now playing<h3>
-<object data="https://now-play.vercel.app/api/generate?uid=b1e4b049-6dad-4731-8bad-4c474578c477" >
-
-  <img src="https://now-play.vercel.app/api/generate?uid=b1e4b049-6dad-4731-8bad-4c474578c477" />
-
-</object> 
 <h3>My stats</h3>
 <!--START_SECTION:waka-->
 ```
