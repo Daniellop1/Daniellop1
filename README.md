@@ -30,7 +30,7 @@
 </object> 
 <h3>My stats</h3>
 <!--START_SECTION:waka-->
-```text
+```
 JSON         34 mins         ███████████▓░░░░░░░░░░░░░   46.26 % 
 Other        13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 % 
 JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
