@@ -32,7 +32,7 @@ Python       4 mins          █▒░░░░░░░░░░░░░░░
 HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 <!--END_SECTION:waka--><br>
-<pre>
+</pre>
 <h3>Where to find me</h3>
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href:"https://instagram.com/2005_danielus">
