@@ -1,6 +1,6 @@
 <h1>👋🏻 Welcome to my profile.</h1>
 
-<p></br> I'm Daniel, from <img src="https://www.flaticon.es/svg/static/icons/svg/323/323365.svg" width="13"/> <b>Spain.</b></p><br>
+<p></br> I'm Daniel, from <img src="https://www.flaticon.es/svg/static/icons/svg/323/323365.svg" width="13"/> <b>Spain.</b></p>
 <h3>Programming languages I know</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
