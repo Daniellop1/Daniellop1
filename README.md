@@ -30,7 +30,7 @@ JavaScript   20 mins         ███▓░░░░░░░░░░░░░
 Other        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 CSS          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 <!--END_SECTION:waka-->
-</pre><br>
+</pre>
 <h3>Where to find me</h3>
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href:"https://instagram.com/2005_danielus">
