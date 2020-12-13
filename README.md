@@ -22,15 +22,16 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/1" alt="Recent Article 1"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/2" alt="Recent Article 2"> <br>
 <h3>My stats</h3>
-<pre>
 <!--START_SECTION:waka-->
+<pre>
 HTML         45 mins         ████████▒░░░░░░░░░░░░░░░░   32.73 % 
 JSON         37 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.69 % 
 JavaScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 Other        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 CSS          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+</pre>
 <!--END_SECTION:waka-->
-</pre><br>
+<br>
 <h3>Where to find me</h3>
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href:"https://instagram.com/2005_danielus">
