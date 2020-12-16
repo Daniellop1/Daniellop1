@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 <h3>My latest posts</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/1" alt="Recent Article 1"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@2005danielus/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/2" alt="Recent Article 2"> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/1" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/2" alt="Recent Article 2"> <br>
 <h3>My stats</h3>
 <pre>
 <!--START_SECTION:waka-->
