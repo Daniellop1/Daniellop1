@@ -25,13 +25,11 @@
 <h3>My stats</h3>
 <pre>
 <!--START_SECTION:waka-->
-```text
 HTML         45 mins         ███████▓░░░░░░░░░░░░░░░░░   30.02 % 
 JSON         43 mins         ███████▒░░░░░░░░░░░░░░░░░   28.69 % 
 JavaScript   26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.54 % 
 Other        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 CSS          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-```
 <!--END_SECTION:waka-->
 </pre>
 <h3>Where to find me</h3>
