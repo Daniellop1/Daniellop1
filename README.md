@@ -36,9 +36,9 @@ CSS          9 mins          █▒░░░░░░░░░░░░░░░
 </pre>
 <h3>Where to find me</h3>
 <p>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href:"https://instagram.com/2005_danielus">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href:"https://twitter.com/2005_danielus"/>
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" href:"https://reddit.com/2005danielus"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href:"https://discord.com/users/396298014295195649"/>
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href:"https://medium.com/dglobal"/>
+  <a target="_blank" href="https://instagram.com/2005_danielus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a target="_blank" href="https://twitter.com/2005_danielus"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a target="_blank" href="https://reddit.com/2005danielus"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+  <a target="_blank" href="https://discord.com/users/396298014295195649"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a target="_blank" href="https://medium.com/dglobal"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </p>
