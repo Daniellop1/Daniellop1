@@ -41,4 +41,5 @@ CSS          31 mins         ██░░░░░░░░░░░░░░░
   <a target="_blank" href="https://reddit.com/2005danielus"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   <a target="_blank" href="https://discord.com/users/396298014295195649"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <a target="_blank" href="https://medium.com/dglobal"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</p>
+</p><br>
+<br><img src="https://github.com/Daniellop1/daniellop1/workflows/Stats/badge.svg"><img src="https://github.com/Daniellop1/daniellop1/workflows/Close%20Pull%20Request/badge.svg">
