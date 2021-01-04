@@ -24,15 +24,8 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniellop1/2" alt="Recent Article 2"> <br>
 <h3>My stats</h3>
 <pre>
-<!--START_SECTION:waka-->
-```text
-HTML         4 hrs 5 mins    ████████████▒░░░░░░░░░░░░   49.20 % 
-JavaScript   2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-CSS          48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-```
-<!--END_SECTION:waka-->
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 </pre>
 <h3>Where to find me</h3>
 <p>
