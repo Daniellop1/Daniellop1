@@ -25,7 +25,7 @@
 <h3>My stats</h3>
 <pre>
 <!--START_SECTION:stats-->
-text
+
 HTML         4 hrs 5 mins    ████████████▒░░░░░░░░░░░░   49.20 % 
 JavaScript   2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.43 % 
 CSS          48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
