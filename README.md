@@ -31,9 +31,10 @@ JavaScript   2 hrs 17 mins   ███████░░░░░░░░░░
 CSS          48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-```
+
 <!--END_SECTION:stats-->
 </pre>
+
 <h3>Where to find me</h3>
 <p>
   <a target="_blank" href="https://instagram.com/2005_danielus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
