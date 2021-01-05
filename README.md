@@ -25,13 +25,11 @@
 <h3>My stats</h3>
 <pre>
 <!--START_SECTION:stats-->
-
 HTML         4 hrs 5 mins    ████████████▒░░░░░░░░░░░░   49.20 % 
 JavaScript   2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.43 % 
 CSS          48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-
 <!--END_SECTION:stats-->
 </pre>
 
@@ -43,4 +41,4 @@ Other        15 mins         ▓░░░░░░░░░░░░░░░░
   <a target="_blank" href="https://discord.com/users/396298014295195649"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <a target="_blank" href="https://medium.com/dglobal"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </p><br>
-<br><img src="https://github.com/Daniellop1/daniellop1/workflows/Stats/badge.svg"><img src="https://github.com/Daniellop1/daniellop1/workflows/Close%20Pull%20Request/badge.svg">
+<br><img src="https://github.com/Daniellop1/daniellop1/workflows/Readme%20stats/badge.svg"><img src="https://github.com/Daniellop1/daniellop1/workflows/Close%20Pull%20Request/badge.svg">
