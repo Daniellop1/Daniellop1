@@ -25,8 +25,8 @@
 - [How to get github notifications on discord](https://blog.2005danielus.mlhow-to-get-github-notifications-on-discord)
 - [Visual studio code extensions you should use](https://blog.2005danielus.mlvisual-studio-code-extensions-you-should-use)
 - [Programming challenges](https://blog.2005danielus.mlprogramming-challenges)
-<!-- BLOG-POST-LIST:END -->
-### My stats
+<!-- BLOG-POST-LIST:END --><br>
+<h3>My stats</h3>
 <pre>
 <!--START_SECTION:stats-->
 
@@ -37,9 +37,9 @@ JSON         27 mins         █▒░░░░░░░░░░░░░░░
 Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 <!--END_SECTION:stats-->
-</pre>
+</pre><br>
 
-### Where to find me
+<h3>Where to find me</h3>
 <p>
   <a target="_blank" href="https://instagram.com/2005_danielus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a target="_blank" href="https://twitter.com/2005_danielus"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
