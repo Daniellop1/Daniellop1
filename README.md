@@ -2,7 +2,7 @@
 
 ![Daniel López](https://user-images.githubusercontent.com/44546966/102456167-0cfea900-4041-11eb-9e7b-b12ac323ca08.png)
 
-### Programming languages I know</h3>
+### Programming languages I know
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,7 +26,7 @@
 - [Visual studio code extensions you should use](https://blog.2005danielus.mlvisual-studio-code-extensions-you-should-use)
 - [Programming challenges](https://blog.2005danielus.mlprogramming-challenges)
 <!-- BLOG-POST-LIST:END -->
-### My stats</h3>
+### My stats
 <pre>
 <!--START_SECTION:stats-->
 
@@ -39,7 +39,7 @@ Other        15 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:stats-->
 </pre>
 
-### Where to find me</h3>
+### Where to find me
 <p>
   <a target="_blank" href="https://instagram.com/2005_danielus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a target="_blank" href="https://twitter.com/2005_danielus"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
