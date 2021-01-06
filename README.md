@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-### 📕 My latest posts</h3>
+<h3>📕 My latest posts</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Create your own theme for visual studio code](https://blog.2005danielus.mlcreate-your-own)
 - [Tools to create your readme on github](https://blog.2005danielus.mltools-to-create-your-readme-on-github)
