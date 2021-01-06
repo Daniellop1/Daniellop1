@@ -20,6 +20,11 @@
 </p>
 ### 📕 My latest posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Create your own theme for visual studio code](https://blog.2005danielus.mlcreate-your-own)
+- [Tools to create your readme on github](https://blog.2005danielus.mltools-to-create-your-readme-on-github)
+- [How to get github notifications on discord](https://blog.2005danielus.mlhow-to-get-github-notifications-on-discord)
+- [Visual studio code extensions you should use](https://blog.2005danielus.mlvisual-studio-code-extensions-you-should-use)
+- [Programming challenges](https://blog.2005danielus.mlprogramming-challenges)
 <!-- BLOG-POST-LIST:END -->
 ### My stats</h3>
 <pre>
