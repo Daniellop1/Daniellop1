@@ -37,8 +37,9 @@ JSON         27 mins         █▒░░░░░░░░░░░░░░░
 Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 <!--END_SECTION:stats-->
-</pre><br>
-
+</pre>
+<h3>Last listened</h3>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=i7gstvsbinn4treva4q09c5gt&count=3"/><br>
 <h3>Where to find me</h3>
 <p>
   <a target="_blank" href="https://instagram.com/2005_danielus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
