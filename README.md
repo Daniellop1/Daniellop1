@@ -37,8 +37,7 @@ CSS          28 mins         █▓░░░░░░░░░░░░░░░
 JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 <!--END_SECTION:stats-->
-</pre>
-<a href="https://github.com/daniellop1/daniellop1/blob/master/github-metrics.svg">
+</pre><br>
 <h3>Last listened</h3>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=i7gstvsbinn4treva4q09c5gt&count=3"/><br>
 <h3>Where to find me</h3>
