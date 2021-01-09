@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
+
 <h3>📕 My latest posts</h3>
 <!-- BLOG-POST-LIST:START -->
 * Gastby for beginners (https://blog.2005danielus.mlgastby-for-beginners)<br>
