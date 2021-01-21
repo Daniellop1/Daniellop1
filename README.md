@@ -20,11 +20,11 @@
 </p>
 <h3>📕 My latest posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Music to code](https://blog.2005danielus.mlmusic-to-code)
 - [Gastby for beginners](https://blog.2005danielus.mlgastby-for-beginners)
 - [How to publish a github action on the marketplace](https://blog.2005danielus.mlhow-to-publish-a-github-action-on-the-marketplace)
 - [Create your own theme for visual studio code](https://blog.2005danielus.mlcreate-your-own)
 - [Tools to create your readme on github](https://blog.2005danielus.mltools-to-create-your-readme-on-github)
-- [How to get github notifications on discord](https://blog.2005danielus.mlhow-to-get-github-notifications-on-discord)
 <!-- BLOG-POST-LIST:END --><br>
 <h3>My stats</h3>
 <pre>
