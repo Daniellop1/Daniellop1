@@ -20,11 +20,11 @@
 </p>
 <h3>📕 My latest posts</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Music to code](https://blog.2005danielus.ml/p/music-to-code/)
-- [Gastby for beginners](https://blog.2005danielus.ml/p/gastby-for-beginners/)
-- [How to publish a github action on the marketplace](https://blog.2005danielus.ml/p/how-to-publish-a-github-action-on-the-marketplace/)
-- [Create your own theme for visual studio code](https://blog.2005danielus.ml/p/create-your-own/)
-- [Tools to create your readme on github](https://blog.2005danielus.ml/p/tools-to-create-your-readme-on-github/)
+- [Music to code](https://blog.2005danielus.ml/post/music-to-code/)
+- [Gastby for beginners](https://blog.2005danielus.ml/post/gastby-for-beginners/)
+- [How to publish a github action on the marketplace](https://blog.2005danielus.ml/post/how-to-publish-a-github-action-on-the-marketplace/)
+- [Create your own theme for visual studio code](https://blog.2005danielus.ml/post/create-your-own/)
+- [Tools to create your readme on github](https://blog.2005danielus.ml/post/tools-to-create-your-readme-on-github/)
 <!-- BLOG-POST-LIST:END --><br>
 <h3>My stats</h3>
 <pre>
