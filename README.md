@@ -30,9 +30,7 @@
 <pre>
 <!--START_SECTION:stats-->
 
-JavaScript   24 mins         █████████████▒░░░░░░░░░░░   53.92 % 
-HTML         17 mins         █████████▒░░░░░░░░░░░░░░░   36.95 % 
-JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+HTML         25 mins         ████████████████████████▓   98.91 % 
 
 <!--END_SECTION:stats-->
 </pre><br>
