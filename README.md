@@ -19,13 +19,15 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 <h3>📕 My latest posts</h3>
+<ul>
 <!-- BLOG-POST-LIST:START -->
-- [Music to code](https://blog.2005danielus.ml/post/music-to-code/)
-- [Gastby for beginners](https://blog.2005danielus.ml/post/gastby-for-beginners/)
-- [How to publish a github action on the marketplace](https://blog.2005danielus.ml/post/how-to-publish-a-github-action-on-the-marketplace/)
-- [Create your own theme for visual studio code](https://blog.2005danielus.ml/post/create-your-own/)
-- [Tools to create your readme on github](https://blog.2005danielus.ml/post/tools-to-create-your-readme-on-github/)
-<!-- BLOG-POST-LIST:END --><br>
+ <li><a href="https://blog.2005danielus.ml/post/music-to-code/">Music to code</a></li>
+ <li><a href="https://blog.2005danielus.ml/post/gastby-for-beginners/">Gastby for beginners</a></li>
+<li><a href="https://blog.2005danielus.ml/post/how-to-publish-a-github-action-on-the-marketplace/">How to publish a github action on the marketplace</a></li>
+<li><a href="https://blog.2005danielus.ml/post/create-your-own/">Create your own theme for visual studio code</a></li>
+<li><a href="https://blog.2005danielus.ml/post/tools-to-create-your-readme-on-github/">Tools to create your readme on github</a></li>
+<!-- BLOG-POST-LIST:END -->
+</ul><br>
 <h3>My stats</h3>
 <pre>
 <!--START_SECTION:stats-->
