@@ -21,11 +21,11 @@
 <h3>📕 My latest posts</h3>
 <ul>
 <!-- BLOG-POST-LIST:START -->
+- [How to create a LUT effect for instagram](https://blog.2005danielus.ml/post/how-to-create-a-lut-effect-for-instagram/)
 - [Music to code](https://blog.2005danielus.ml/post/music-to-code/)
 - [Gastby for beginners](https://blog.2005danielus.ml/post/gastby-for-beginners/)
 - [How to publish a github action on the marketplace](https://blog.2005danielus.ml/post/how-to-publish-a-github-action-on-the-marketplace/)
 - [Create your own theme for visual studio code](https://blog.2005danielus.ml/post/create-your-own/)
-- [Tools to create your readme on github](https://blog.2005danielus.ml/post/tools-to-create-your-readme-on-github/)
 <!-- BLOG-POST-LIST:END -->
 </ul><br>
 <h3>My stats</h3>
