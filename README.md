@@ -21,11 +21,11 @@
 <h3>📕 My latest posts</h3>
 <ul>
 <!-- BLOG-POST-LIST:START -->
+- [What font use to code?](https://blog.2005danielus.ml/post/what-font-use-to-code/)
+- [Ways to deploy your code for free](https://blog.2005danielus.ml/post/ways-to-deploy-your-code-for-free/)
 - [What browser should you use?](https://blog.2005danielus.ml/post/what-browser-should-you-use/)
 - [How to create a LUT effect for instagram](https://blog.2005danielus.ml/post/how-to-create-a-lut-effect-for-instagram/)
 - [Music to code](https://blog.2005danielus.ml/post/music-to-code/)
-- [Gastby for beginners](https://blog.2005danielus.ml/post/gastby-for-beginners/)
-- [How to publish a github action on the marketplace](https://blog.2005danielus.ml/post/how-to-publish-a-github-action-on-the-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 </ul><br>
 <h3>My stats</h3>
