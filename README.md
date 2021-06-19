@@ -21,11 +21,11 @@
 <h3>📕 My latest posts</h3>
 <ul>
 <!-- BLOG-POST-LIST:START -->
+- [How to create a gradient with XD](https://danidevblog.ml/post/how-to-create-a-gradient-with-xd/)
 - [What font use to code?](https://danidevblog.ml/post/what-font-use-to-code/)
 - [Ways to deploy your code for free](https://danidevblog.ml/post/ways-to-deploy-your-code-for-free/)
 - [What browser should you use?](https://danidevblog.ml/post/what-browser-should-you-use/)
 - [How to create a LUT effect for instagram](https://danidevblog.ml/post/how-to-create-a-lut-effect-for-instagram/)
-- [Music to code](https://danidevblog.ml/post/music-to-code/)
 <!-- BLOG-POST-LIST:END -->
 </ul><br>
 <h3>My stats</h3>
